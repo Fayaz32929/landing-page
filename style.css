@@ -61,3 +61,34 @@ button{
 
 }
 
+.information-section{
+   padding-top: 32px;
+   padding-bottom: 80px;
+   
+}
+.information-section-heading{
+    text-align: center;
+    margin: 0 auto;
+    width: 1080px;
+    font-size: 36px ;
+    font-size: #1f2937;
+    font-weight: 900;
+}
+
+.information-section-items{
+    width: 1080px;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.information-section-item{
+    width: 200px;
+
+}
+.information-section-image{
+    width: 200px;
+    height: 200px;
+    border:solid #3882f6 4px  ;
+    border-radius: 36px;
+
+}
