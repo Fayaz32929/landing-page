@@ -131,3 +131,14 @@ background-color: #e5e7eb;
 .callToAction-button{
     border-color: #f9faf8;
 }
+.footer{
+    background-color: #1f2937;
+    height: 80px;
+    color:#e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-content{
+    font-size: 18px;
+}
