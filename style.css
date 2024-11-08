@@ -92,3 +92,27 @@ button{
     border-radius: 36px;
 
 }
+
+.quote-section{
+
+background-color: #e5e7eb;
+}
+.quote-content{
+    box-sizing: border-box;
+    width: 1080px;
+    margin:0 auto;
+    padding: 80px  120px;
+
+}
+.quote{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+
+}
+.quote-author{
+    font-weight: bold;
+    text-align: end;
+
+}
